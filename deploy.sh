@@ -6,4 +6,4 @@ git add -A
 
 git commit -m 'deploy'
 
-git push -f git@github.com:lin-snow/https://github.com/kjhb45/blog-file.git main#向存储库推送
+git push -f git@github.com:kjhb45/blog-file.git main#向存储库推送
